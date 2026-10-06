@@ -1,0 +1,1 @@
+Put this album's photos (.jpg) and videos (.mp4) in this folder.
